@@ -9,11 +9,12 @@ Design: Tailwand
 ### Run
 Open 2 terminals:<br>
 terminal1 -> npm run dev<br>
-  -for frontend react app
+  -for frontend react app <br>
 terminal2-> npm run server
   -for json server
 ### Useful links: <br>
 https://tailwindcss.com/docs/guides/vite <br>
 https://www.npmjs.com/package/json-server <br>
 https://react.dev/ <br>
+### Images:
 
