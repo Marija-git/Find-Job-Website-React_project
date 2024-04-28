@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "8a95",
+      "title": "React Developer Intern",
+      "type": "Internship",
+      "location": "Belgrade, Serbia",
+      "description": "We are looking for talented react developer intern who has experience with CSS, JavaScript and React.",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "WebWorks",
+        "description": "WebWorks Inc. is a leading web development firm dedicated to crafting stunning and functional online experiences for businesses of all sizes. With a focus on innovative design, robust development, and seamless user experience, we specialize in creating custom websites tailored to our clients' unique needs. From sleek corporate portals to dynamic e-commerce platforms, our team of experts is committed to delivering top-notch solutions that drive success in the digital realm. Let us bring your vision to life and elevate your online presence to new heights.",
+        "contactEmail": "webworks@gmail.com",
+        "contactPhone": "222-222-222|"
+      }
     }
   ]
 }
