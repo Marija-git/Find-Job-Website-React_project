@@ -10,7 +10,7 @@ Design: Tailwand
 Open 2 terminals:<br>
 terminal1 -> npm run dev<br>
   -for frontend react app <br>
-terminal2-> npm run server
+terminal2-> npm run server<br>
   -for json server
 ### Useful links: <br>
 https://tailwindcss.com/docs/guides/vite <br>
