@@ -1,8 +1,7 @@
 
-### Description
-**Find Job Website - Project Overview**;<br>
+### **Find Job Website - Project Overview**
 **Technologies**: React, Tailwand, JSON Server <br>
-A responsive job listing platform for React developers, built using React and Tailwind CSS. The application allows users to browse job opportunities, view detailed job postings (including salary, location, and descriptions), and manage job listings through a full CRUD interface. Employers can add, edit, and delete job postings via an interactive form. The backend is powered by JSON Server, handling GET, POST, PUT, and DELETE requests. This project demonstrates proficiency in React fundamentals, including components, props, events, and state management, while showcasing the ability to build dynamic, user-friendly web applications.
+- A responsive job listing platform for React developers, built using React and Tailwind CSS. The application allows users to browse job opportunities, view detailed job postings (including salary, location, and descriptions), and manage job listings through a full CRUD interface. Employers can add, edit, and delete job postings via an interactive form. The backend is powered by JSON Server, handling GET, POST, PUT, and DELETE requests. This project demonstrates proficiency in React fundamentals, including components, props, events, and state management, while showcasing the ability to build dynamic, user-friendly web applications.
 ### Images:
 ![homePage1](https://github.com/Marija-git/ReactProject1_FindJob/assets/80058346/c91bf907-f624-4981-9908-fee3f6bf869b)
 ![homePage2](https://github.com/Marija-git/ReactProject1_FindJob/assets/80058346/d7bb627a-a481-4b70-911d-c019a5fc5a1a)
